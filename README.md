@@ -75,7 +75,7 @@ holidays_with_bbqs(holiday_supplies)
 #=> [:fourth_of_july, :memorial_day]
 ```
 
-**Reminder:** This is a challenging lab, so remember to use Pry, Google, and the Learn community to help you get the tests passing.
+**Reminder:** This is a challenging lab, so remember to use Pry, Google, and the Flatiron School community to help you get the tests passing.
 
 ## Resources
 
